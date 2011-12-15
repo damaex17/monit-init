@@ -1,0 +1,3 @@
+- init script for monit
+- chkconfig compatible
+- supports user option
